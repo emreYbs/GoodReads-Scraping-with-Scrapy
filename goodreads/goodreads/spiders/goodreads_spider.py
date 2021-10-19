@@ -1,12 +1,10 @@
-
+# https://github.com/emreYbs
 # -*- coding: utf-8 -*-
+
 import scrapy
-#from items import GoodreadsItem
-# benim isimlendirdiğim: myGoodReadsItem
-#from items import GoodreadsItem
+
 
 class GoodreadsSpiderItem(scrapy.Item):
-    # define the fields for your item here like:
     source = scrapy.Field()
     title = scrapy.Field()
     length = scrapy.Field()
