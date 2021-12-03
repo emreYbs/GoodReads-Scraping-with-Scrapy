@@ -1,8 +1,8 @@
-# GoodReads Website Scraping with Scrapy and Analysis of the Result with SandDance  
-## *(to get the quotes for InfoSec, Hacking, Computer-Science and Security)* 
+# GoodReads Website Scraping with Scrapy and Analysis of the Result with SandDance *(to get the quotes for InfoSec, Hacking, Computer-Science and Security)*
+ 
 
 
-- You can find Json,csv results of the scraping process in the repo, if you need.
+ _You can find Json, csv results of the scraping process in the repo, if you need._
 
 
 I try to learn more about Data Science and do some projects to exercise for my hobbies. In this project, I scraped the GoodReads Website for quotes about *InfoSec, Hacking, Computer-Science and Security* ; then made a simple analysis of quotes related to these topics *which I am interested in*. Even this simple, non academic project can give you lots of insight and if you are interested, you can seek whether there is a correlation between the number of likes and the length of quotes, whether the author of that quote affect the result, etc. 
