@@ -1,6 +1,7 @@
 # https://github.com/emreYbs
 # -*- coding: utf-8 -*-
 
+
 import scrapy
 
 
