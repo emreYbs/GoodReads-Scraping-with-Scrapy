@@ -1,4 +1,4 @@
-## GoodReads Website Scraping with Scrapy 
+## GoodReads Website 📖 Scraping with Scrapy 
 **(and Analysis of the Result with SandDance to get the quotes for InfoSec, Hacking, Computer-Science and Security)**
  
 
@@ -37,7 +37,7 @@ The Python code will get the likes, tags, author, etc.Then, you let the Scrapy s
 ![image](https://user-images.githubusercontent.com/59505246/137913838-a46b802a-1c01-471a-80e7-65b73180dbf7.png)
 
 # To sum up
-- I agree with the Swedish author, Stieg Larsson *“We need to have a talk on the subject of what's yours and what's mine.”* with a conclusion that the data is ours! :). So feel free to use this hobby project. Just scraping but without getting insights from the scraped data has little value. So, the simple SandDance extension can give meaningful insights in a very easy way. That's why I've added screenshots, to inspire the ones who have not used this free extension/tool.
+- I agree with 🤝 the Swedish author, Stieg Larsson *“We need to have a talk on the subject of what's yours and what's mine.”* with a conclusion that the data is ours! :). So feel free to use this hobby project. Just scraping but without getting insights from the scraped data has little value. So, the simple SandDance extension can give meaningful insights in a very easy way. That's why I've added screenshots, to inspire the ones who have not used this free extension/tool.
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.png)](https://github.com/firstcontributions/open-source-badges)
 
