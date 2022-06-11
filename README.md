@@ -1,18 +1,18 @@
-## GoodReads Website 📖 Scraping with Scrapy 
-**(and Analysis of the Result with SandDance to get the quotes for InfoSec, Hacking, Computer-Science and Security)**
+# GoodReads Website 📖 Scraping with Scrapy 
+**(and Analysis of the Result with SandDance to get the quotes for _InfoSec, Hacking, Computer-Science_ and _Security_)**
  
 
 
- _You can find Json, csv results of the scraping process in the repo, if you need._
+ - _You can find Json, csv results of the scraping process in the repo, if you need._
 
 
-I try to learn more about Data Science and do some projects to exercise for my hobbies. In this project, I scraped the GoodReads Website for quotes about *InfoSec, Hacking, Computer-Science and Security* ; then made a simple analysis of quotes related to these topics *which I am interested in*. Even this simple, non academic project can give you lots of insight and if you are interested, you can seek whether there is a correlation between the number of likes and the length of quotes, whether the author of that quote affect the result, etc. 
+I try to learn more about Data Science and do some projects to exercise for my hobbies. In this project, I scraped the **GoodReads** Website for quotes about *InfoSec, Hacking, Computer-Science and Security* ; then made a simple analysis of quotes related to these topics *which I am interested in*. Even this simple, non academic project can give you lots of insight and if you are interested, you can seek whether there is a correlation between the number of likes and the length of quotes, whether the author of that quote affect the result, etc. 
 
-The Python code will get the likes, tags, author, etc.Then, you let the Scrapy save the output as Json and csv formats. **(scrapy crawl quotes -o quotes.csv)**   
+- The Python code will get the likes, tags, author, etc.Then, you let the Scrapy save the output as Json and csv formats. **(scrapy crawl quotes -o quotes.csv)**   
 
 *Note*  : "quotes" is the I named the project. You need to give a unique name for Scrapy to work well, so according to your needs, if you use the code I used, then just arrange the code accordingly. Or let me know, I can also help if you encounter an issue.
 
- You can examine the data with Pandas, etc in Jupyter. **OR**, there is a useful extension for Visual Studio Code from Microsoft Research called SandDance. Easy and effective to use. I added some screenshots and a short gif video of this analysis here. So you can have an idea. 
+- You can examine the data with Pandas, etc in Jupyter. **OR**, there is a useful extension for Visual Studio Code from Microsoft Research called SandDance. Easy and effective to use. I added some screenshots and a short gif video of this analysis here. So you can have an idea. 
 
 ![image](https://user-images.githubusercontent.com/59505246/137897518-5075a5c3-ce30-4909-b205-db18d537da08.png)
 
